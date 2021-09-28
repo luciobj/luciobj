@@ -30,7 +30,7 @@ My main interests and hobbies are:
 
 - 📫 Contacts:
 
-  <a href="https://www.linkedin.com/in/pedro-henrique-tofani-ferreira/">
+  <a href="https://www.linkedin.com/in/luciobj/">
     <img align="left" alt="LinkedIn" width="40px" height="40px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/linkedIn.png" />
   </a>
   <a href="mailto:lbjunq@hotmail.com">
