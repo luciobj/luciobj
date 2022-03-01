@@ -13,19 +13,12 @@ My main interests and hobbies are:
 
 - 🔭 Skill I have learned already:
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/python.jpeg" alt="python" width="40" height="40" />
-</p>
-
+<div align="center">
+<img src = "https://img.shields.io/badge/-HTML5-1C1C1C?style=plastic&logo=html5&logoColor=E34F26" width="85px"> <img src = "https://img.shields.io/badge/-CSS3-1C1C1C?style=plastic&logo=css3&logoColor=1572B6" width="75px"> <img src = "https://img.shields.io/badge/-JavaScript-1C1C1C?style=plastic&logo=javascript&logoColor=eed718" width="110px"> <img src="https://img.shields.io/badge/-Node.js-1C1C1C?style=plastic&logo=Node.js&logoColor=3C873A" width="90px"> <img src="https://img.shields.io/badge/-ReactJs-1C1C1C?logo=react&logoColor=61DAFB&style=plastic" width="90px"> <img src="https://img.shields.io/badge/-git-1C1C1C?logo=git&logoColor=F05032&style=plastic" width="55px"><br> 
+<img src="https://img.shields.io/badge/-React%20Router-1C1C1C?logo=react-router&logoColor=CA4245&style=plastic" width="130px">
+<img src="https://img.shields.io/badge/-Redux-1C1C1C?logo=redux&logoColor=764ABC&style=plastic" width="85px"> <img src="https://img.shields.io/badge/-NPM-1C1C1C?logo=npm&logoColor=CB3837&style=plastic" width="70px"> <img src="https://img.shields.io/badge/-Jest-1C1C1C?logo=jest&logoColor=C21325&style=plastic" width="65px"> 
+<img src="https://img.shields.io/badge/-Testing%20Library-1C1C1C?logo=testing-library&logoColor=E33332&style=plastic" width="150px">
+</div>
 
 
 - 📫 Contacts:
@@ -37,4 +30,4 @@ My main interests and hobbies are:
     <img align="left" alt="Email" width="40px" height="40px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/gmail.png" />
   </a>
 
-<!-- ⭐️ Baseado em [Pedro Tófani]https://github.com/PHTF92)
+<!-- ⭐️ Baseado em [Pedro Tófani](https://github.com/PHTF92) e [David Gonzaga](https://github.com/Gonzagadavid)
