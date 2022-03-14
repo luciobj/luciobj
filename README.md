@@ -1,6 +1,6 @@
 ### Welcome
 
-My name is Lúcio BJ, and im currently a Full-stack web developer in learning.
+My name is Lúcio BJ, and im currently a Full-stack web developer.
 I'm from Belo Horizonte, Minas Gerais, Brasil, and I am looking for oportunities both locally and abroad.
 
 I studied at Trybe, where I did lesson on front-end, back-end, and computer science! 🖥️ 🖱️
